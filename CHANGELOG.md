@@ -10,6 +10,10 @@
 
 - Extend binary to array support to 64 bytes.
 
+**cosmwasm-vm**
+
+- Export method `cosmwasm_vm::Cache::stats` and response type `Stats`.
+
 ## 0.12.0 (2020-11-19)
 
 **cosmwasm-std**
