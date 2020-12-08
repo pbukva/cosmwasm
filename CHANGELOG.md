@@ -9,6 +9,11 @@
 **cosmwasm-std**
 
 - Extend binary to array support to 64 bytes.
+- Remove `cosmwasm_std::testing::MockApi::new`. Use `MockApi::default` instead.
+
+**cosmwasm-vm**
+
+- Remove `cosmwasm_vm::testing::MockApi::new`. Use `MockApi::default` instead.
 
 ## 0.12.0 (2020-11-19)
 
